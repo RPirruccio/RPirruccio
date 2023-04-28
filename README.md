@@ -1,6 +1,6 @@
-![Header](./Ricky Pirruccio.gif)
+![Header](./Ricky Pirruccio (1200 × 400 px).png)
 
-<img src="./Ricky Pirruccio.gif" alt="Header" width="1280" height="400">
+<img src="./Ricky Pirruccio (1200 × 400 px).png" alt="Header" width="1280" height="400">
 
 ### Hi there 👋
 
