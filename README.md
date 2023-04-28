@@ -1,4 +1,4 @@
-![Header](./Ricky Pirruccio (960 × 400 px).jpg)
+![Header](./Ricky Pirruccio_960x 400.jpg)
 
 <!-- <img src="./Ricky Pirruccio (960 × 400 px).jpg" alt="Header" width="1280" height="400"> -->
 
