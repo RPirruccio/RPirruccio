@@ -1,4 +1,4 @@
-![Alt text](./Ricky Pirruccio.gif)
+![Header](./Ricky Pirruccio.gif)
 
 ### Hi there 👋
 
