@@ -1,3 +1,5 @@
+![Alt text](https://github.com/RPirruccio/RPirruccio/edit/main/README.md)
+
 ### Hi there 👋
 
 Welcome to my Github profile! I'm a software developer with a focus on building practical solutions to real-world problems. With experience in debugging and problem-solving, I have developed the skills necessary to tackle complex challenges.
