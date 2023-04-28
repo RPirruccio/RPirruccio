@@ -1,6 +1,6 @@
 ![Header](./Ricky Pirruccio.gif)
 
-<img src="./Ricky Pirruccio.gif" alt="Header" width="400" height="300">
+<img src="./Ricky Pirruccio.gif" alt="Header" width="1280" height="400">
 
 ### Hi there 👋
 
