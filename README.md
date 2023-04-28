@@ -1,4 +1,4 @@
-![Alt text](https://github.com/RPirruccio/RPirruccio/edit/main/README.md)
+![Alt text](./Ricky Pirruccio.gif)
 
 ### Hi there 👋
 
