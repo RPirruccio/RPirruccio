@@ -48,7 +48,8 @@ My experience includes working with Python to solve semiconductor manufacturing 
 - Loader.io
 - K6
 - New Relic
-- AWS: EC2 / RDS / S3
+- AWS: EC2
+- Docker
 
 ### Developer Tools
 
