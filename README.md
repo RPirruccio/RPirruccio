@@ -17,8 +17,8 @@ My experience includes working with Python to solve semiconductor manufacturing 
 </div>
 
 ## Let's connect
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardop17/)
-![Email](https://img.shields.io/badge/hsuchchas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardop17/)
+![Email]()
 
 ### A little about me..
 
