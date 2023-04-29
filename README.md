@@ -18,7 +18,6 @@ My experience includes working with Python to solve semiconductor manufacturing 
 
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/riccardo--pirruccio-blue?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/riccardop17/)
-![Email]()
 
 ### A little about me..
 
