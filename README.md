@@ -8,12 +8,10 @@ Welcome to my Github profile! I'm a software developer with a focus on building 
 
 My experience includes working with Python to solve semiconductor manufacturing supply chain problems, as well as building web applications using JavaScript. My passion for creating efficient and effective software systems drives me to continuously learn and improve my skills.
 
-### Tech Stack
+### Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="alt"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "alt="alt"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="alt"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="alt"/>
 </div>
 
 ## Let's connect
