@@ -14,6 +14,56 @@ My experience includes working with Python to solve semiconductor manufacturing 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "alt="alt"/>
 </div>
 
+## TECHNICAL SKILLS
+
+### Front-End
+
+- JavaScript (ES5 and ES6)
+- Python Tkinter
+- TypeScript
+- React
+- Redux
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Back-End
+
+- Node.js
+- Express
+- Python Django
+- PostgreSQL
+- MongoDB
+- MySQL
+- RESTful API
+
+### Testing/Deployment
+
+- Jest
+- Mocha
+- Chai
+- Jasmine
+- React Testing Library
+- Loader.io
+- K6
+- New Relic
+- AWS: EC2 / RDS / S3
+
+### Developer Tools
+
+- Vim
+- Git
+- npm
+- Webpack
+- Babel
+- Agile Methodology
+- Scrum
+- TDD
+- Trello
+- GitHub Actions
+
+
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/riccardo--pirruccio-blue?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/riccardop17/)
 
